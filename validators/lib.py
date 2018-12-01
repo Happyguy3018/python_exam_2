@@ -1,9 +1,4 @@
 
-"""
-    Написати валідатор ....
-    Правило валідації
-"""
-
 import  re
 import string
 def get_user_id():
